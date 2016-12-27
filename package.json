@@ -1,0 +1,14 @@
+{
+  "name": "dash-bt",
+  "version": "1.0.0",
+  "description": "amazon dash button hack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wintu",
+  "license": "ISC",
+  "dependencies": {
+    "node-dash-button": "^0.6.1"
+  }
+}
